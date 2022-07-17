@@ -1,3 +1,3 @@
-Python image to download a file specified via $URL variable<br/ ><br/ >
-Usage:<br/ >
+Python image to download a file specified via $URL variable<br /><br />
+Usage:<br />
 **docker run --mount type=volume,dst=/downloads/ -e URL="http://www.example.com" container_id**
