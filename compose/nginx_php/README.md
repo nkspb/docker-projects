@@ -1,1 +1,1 @@
-Nginx with php-fpm configured<br/ >
+Nginx with php-fpm configured<br />
